@@ -16,7 +16,7 @@ jobs:
           java -jar bfg.jar --strip-blobs-bigger-than 10K -fs 100M repo_gh && \
           cd repo_gh && \
           git reflog expire --expire=now --all && \
-          git gc --prune=now --aggressive --prune=all
+          git gc --prune=now --aggressive --all
 
       - name: Push
         run: |
