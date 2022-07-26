@@ -235,6 +235,7 @@ https://github.com/SukkaW/Surge/raw/master/List/domainset/reject_sukka.conf
 https://github.com/npljy/npljy.github.io/raw/main/blocks/dns.txt
 https://github.com/npljy/npljy.github.io/raw/main/blocks/filter.txt
 https://git.herrbischoff.com/trackers/plain/reject.txt
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
 https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
 
