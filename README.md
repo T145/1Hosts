@@ -534,6 +534,8 @@ If you decide that ***Lite*** isn't for you, then move upwards or downwards the 
 <p align="center"><strong>users. fans. mentions.</strong> <br>
 <a href="https://forum.xda-developers.com/posts/74708195">forum.xda-developers.com/posts/74708195</a> <br>
 <a href="https://github.com/crssi/NextDNS-Config">github.com/crssi/NextDNS-Config</a> <br>
+<a href="https://github.com/yokoffing/NextDNS-Config">github.com/yokoffing/NextDNS-Config</a> <br>
 <a href="https://socialgrep.com/search?query=1hosts%2Clite">users' comments: 1Hosts (Lite)</a> <br>
 <a href="https://socialgrep.com/search?query=1hosts%2Cpro">comments: 1Hosts (Pro)</a> <br>
 </p>
+
