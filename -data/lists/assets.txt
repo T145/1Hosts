@@ -22,7 +22,6 @@ https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Fre
 https://github.com/xinggsf/Adblock-Plus-Rule/raw/master/rule.txt
 https://github.com/olegwukr/polish-privacy-filters/raw/master/adblock.txt
 https://github.com/DivineEngine/Profiles/raw/master/Quantumult/Filter/Guard/Advertising.list
-https://github.com/lhie1/Rules/raw/master/Auto/REJECT.conf
 https://github.com/scomper/surge-list/raw/master/reject.list
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
 https://road.adblock.ro/lista.txt
@@ -34,7 +33,6 @@ https://github.com/unchartedsky/adguard-kr/raw/master/adguard-kr.txt
 https://github.com/nimasaj/uBOPa/raw/master/uBOPa.txt
 https://github.com/VernonStow/Filterlist/raw/master/Filterlist.txt
 https://github.com/YanFung/Ads/raw/master/Mobile
-https://dnsdian.com/OpenWRT/user.txt
 https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking
 https://github.com/UnluckyLuke/BlockUnderRadarJunk/raw/master/blockunderradarjunk-list.txt
 https://github.com/ziozzang/adguard/raw/master/filter.txt
@@ -48,7 +46,6 @@ https://dl.comss.org/download/Comss-filters.txt
 https://github.com/wrysunny/ad_list/raw/master/adlist.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
-https://github.com/sa-ki13/jmsf/raw/master/japanese_mobile_site_dns_filter.txt
 https://github.com/easylist-thailand/easylist-thailand/raw/master/subscription/easylist-thailand.txt
 https://raw.githubusercontent.com/clion007/dnsmasq/master/adblacklist
 https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/raw/master/EU_US%2Bmost_used_ad_and_tracking_networks
@@ -115,7 +112,6 @@ https://github.com/ZYX2019/host-block-list/raw/master/Custom.txt
 https://github.com/UnbendableStraw/samsungnosnooping/raw/master/README.md
 https://github.com/mhhakim/pihole-blocklist/raw/master/custom-blocklist.txt
 https://github.com/tomzuu/blacklist-named/raw/master/ad.sites.conf
-https://github.com/tomzuu/blacklist-named/raw/master/pushing.sites.conf
 https://github.com/faralai/Pihole-Rules/raw/master/Fara-Xiaomi-info
 https://github.com/faralai/Pihole-Rules/raw/master/Fara-Popups_Head
 https://github.com/xlimit91/xlimit91-block-list/raw/master/blacklist.txt
@@ -133,7 +129,6 @@ https://github.com/mayesidevel/PiHoleLists/raw/master/MiscBlocklist
 https://github.com/ftpmorph/ftprivacy/raw/master/regex-blocklists/smartphone-and-general-ads-analytics-regex-blocklist-ftprivacy.txt
 https://github.com/monojp/hosts_merge/raw/master/hosts_blacklist.txt
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
-https://github.com/jasirfayas/jBlocklist/raw/master/domains.lst
 https://github.com/TonyRL/blocklist/raw/master/hosts
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_google_adservice_id.txt
 https://github.com/jakdev121/AMS2/raw/master/pi_indo_ads.txt
@@ -173,9 +168,7 @@ https://github.com/blocklistproject/Lists/raw/master/ransomware.txt
 https://github.com/ShadowWhisperer/BlockLists/raw/master/Lists/Malware
 https://github.com/Hariharann8175/Indicators-of-Compromise-IOC-/raw/master/Ransomware%20URL's
 https://github.com/Neo23x0/signature-base/raw/master/iocs/c2-iocs.txt
-https://malc0de.com/bl/ZONES
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt
-https://www.threatsourcing.com/dnall-free.txt
 http://www.shallalist.de/Downloads/shallalist.tar.gz
 https://dsi.ut-capitole.fr/blacklists/download/ads.tar.gz
 http://www.hostsfile.org/Downloads/BadHosts.unx.zip
@@ -199,13 +192,12 @@ https://github.com/BlackJack8/iOSAdblockList/raw/master/Regular%20Hosts.txt
 https://dbl.oisd.nl/
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
-https://github.com/xOS/Config/raw/Her/Surge/RuleSet/Advertising.list
+https://raw.githubusercontent.com/xOS/Config/Her/RuleSet/Advertising.list
 https://github.com/DK-255/Pi-hole-list-1/raw/main/Ads-Blocklist
-https://github.com/Pentanium/ABClientFilters/raw/master/ko/korean.txt
 https://github.com/mtbnunu/ad-blocklist/raw/master/kr-list.txt
 https://github.com/unflac/adFILTER/raw/master/filter.txt
 https://github.com/kang49/kang49regexblacklistproject/raw/main/blacklist
-https://github.com/joaopinto14/PiHole/raw/main/adverts
+https://raw.githubusercontent.com/joaopinto14/PiHole/master/Adverts
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/fake-domains.txt
 https://github.com/SlashArash/adblockfa/raw/master/adblockfa.txt
 https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt
@@ -215,8 +207,7 @@ https://github.com/fskreuz/blocklists/raw/dev/domains.txt
 https://github.com/vokins/ad/raw/main/ad.list
 https://github.com/willianreis89/ADsBlock/raw/master/list.txt
 https://github.com/lesong/Surge/raw/main/rule/BanProgramAD.list
-https://github.com/sirsunknight/QuantumultX/raw/master/Filter/Radical-Advertising
-https://github.com/xylagbx/ADBLOCK/raw/master/BLOCK/customadblockdomain.txt
+https://raw.githubusercontent.com/sirsunknight/QuantumultX/master/Filter/Extra-Advertising.list
 https://github.com/jlonborg/piblacklist/raw/main/blacklist.txt
 https://github.com/damengzhu/banad/raw/main/jiekouAD.txt
 https://github.com/mullvad/dns-adblock/raw/main/lists/doh/adblock/custom
@@ -227,7 +218,6 @@ https://github.com/fandagroupofficial/hosts/raw/main/pihole/trackers
 https://github.com/fandagroupofficial/hosts/raw/main/pihole/log
 https://github.com/fandagroupofficial/hosts/raw/main/pihole/ads
 https://github.com/MitaZ/Better_Filter/raw/master/Quantumult_X/Filter.list
-https://github.com/568475513/secret_domain/raw/master/filter.txt
 https://github.com/CipherOps/MiscHostsFiles/raw/master/MiscAdTrackingHostBlock.txt
 https://github.com/igorskyflyer/ad-void/raw/main/AdVoid.Core.txt
 https://github.com/sutchan/dnsmasq_ads_filter/raw/main/dnsmasq-ads-filter-list.txt
@@ -238,4 +228,3 @@ https://git.herrbischoff.com/trackers/plain/reject.txt
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
 https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
-
